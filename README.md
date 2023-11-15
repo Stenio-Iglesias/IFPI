@@ -1,3 +1,3 @@
 # IFPI
 
-Repositório de projeto desenvolvidos no IFPI 
+Repositório de projetos desenvolvidos no IFPI.
